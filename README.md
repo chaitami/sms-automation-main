@@ -1,3 +1,3 @@
 # sms-automation-main
  
-sms automation with Library of Selenium python
+sms automation with a Library of Selenium python
